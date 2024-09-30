@@ -11,7 +11,7 @@ developer: https://t.me/pysmart
 - Set Up Telegram API Credentials
 - You'll need an API ID and API Hash from my.telegram.org.
  
-ALSO AVAILABLE FOR TELEGRAM MASS DMs
+<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
 
 developer: https://t.me/pysmart
 
