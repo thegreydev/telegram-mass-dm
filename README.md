@@ -20,7 +20,7 @@ developer: https://t.me/pysmart
 - Click on API development tools.
 - Copy your API ID and API Hash.
 
-ALSO AVAILABLE FOR TELEGRAM MASS DMs
+<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
 
 developer: https://t.me/pysmart
 
@@ -30,7 +30,7 @@ developer: https://t.me/pysmart
 - Login: The script starts by logging in using your phone number. If the session is already saved, it skips this step.
 - Sending Messages: It reads a file (users.txt) containing usernames or phone numbers and sends a message to each one.
 
-ALSO AVAILABLE FOR TELEGRAM MASS DMs
+<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
 
 developer: https://t.me/pysmart
 
